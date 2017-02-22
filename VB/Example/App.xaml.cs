@@ -11,5 +11,6 @@ namespace Example {
     /// Interaction logic for App.xaml
     /// </summary>
     public partial class App : Application {
+        int t=25;
     }
 }
