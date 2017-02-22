@@ -22,6 +22,7 @@ Namespace Example
 
         Public Sub New()
             InitializeComponent()
+            Dim t As Integer=123
         End Sub
     End Class
 End Namespace
