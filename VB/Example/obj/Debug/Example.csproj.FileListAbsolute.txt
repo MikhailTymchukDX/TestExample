@@ -1,6 +1,0 @@
-D:\progs\Jenkins\jobs\TestExample_15.1.5-15.1.7\workspace\CS\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
-D:\progs\Jenkins\jobs\TestExample_15.1.5-15.1.7\workspace\CS\Example\obj\Debug\Example_MarkupCompile.cache
-D:\progs\Jenkins\jobs\TestExample_15.1.5-15.1.7\workspace\CS\Example\obj\Debug\Example.Properties.Resources.resources
-D:\progs\Jenkins\jobs\TestExample_15.1.5-15.1.7\workspace\CS\Example\obj\Debug\Example.csproj.GenerateResource.Cache
-D:\progs\Jenkins\jobs\TestExample_15.1.5-15.1.7\workspace\CS\Example\obj\Debug\Example.exe.licenses
-D:\progs\Jenkins\jobs\TestExample_15.1.5-15.1.7\workspace\CS\Example\obj\Debug\Example.exe
