@@ -13,6 +13,6 @@ Namespace Example
     Partial Public Class App
         Inherits Application
 
-        Private t As Integer=5
+        Private t As Integer=25
     End Class
 End Namespace
